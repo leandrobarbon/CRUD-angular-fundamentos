@@ -1,0 +1,16 @@
+{
+  "pensamentos": [
+    {
+      "id": 2,
+      "conteudo": "Estudando Angular",
+      "autoria": "Dev Alura2",
+      "modelo": "modelo2"
+    },
+    {
+      "conteudo": "testando",
+      "autoria": "você disse o que?",
+      "modelo": "modelo3",
+      "id": 4
+    }
+  ]
+}
